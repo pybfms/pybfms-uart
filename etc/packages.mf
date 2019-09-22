@@ -1,0 +1,5 @@
+
+# googletest-hdl@https://github.com/mballance/googletest-hdl.git
+# sv_bfms@https://github.com/mballance/sv_bfms.git
+simscripts@https://github.com/mballance/simscripts.git
+
