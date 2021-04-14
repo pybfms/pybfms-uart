@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pybfms-uart
+Version: 0.0.1
+Summary: pybfms-uart provides bus functional models for UART protocol
+Home-page: https://github.com/pybfms/pybfms-uart
+Author: Matthew Ballance
+Author-email: matt.ballance@gmail.com
+License: Apache 2.0
+Description: UNKNOWN
+Keywords: SystemVerilog,Verilog,RTL,cocotb
+Platform: UNKNOWN
