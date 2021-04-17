@@ -52,6 +52,7 @@ setup(
   cmdclass=cmdclass,
   install_requires=[
     'cocotb',
+    'pyhvl-rpc',
     'pybfms',
   ],
 )
