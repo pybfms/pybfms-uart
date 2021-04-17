@@ -35,7 +35,11 @@ setup(
   version=VERSION,
   packages=['uart_bfms'],
   package_dir = {'' : 'src'},
-  package_data = {'uart_bfms': ['hdl/*.v']},
+  package_data = {'uart_bfms': [
+      'share/hdl/*.v',
+      'share/sw/c/*.h',
+      'share/sw/c/*.c',
+      ]},
   author = "Matthew Ballance",
   author_email = "matt.ballance@gmail.com",
   description = ("pybfms-uart provides bus functional models for UART protocol"),
