@@ -12,7 +12,7 @@ from typing import List
 
 @hvlrpc.api_exp
 class UartBfmSwAPI(object):
-    """Implements the Python size of the C API to the BFM"""
+    """Implements the Python side of the C API to the BFM"""
     
     def __init__(self, bfms : List[UartBfm] = None):
         if bfms is None:
